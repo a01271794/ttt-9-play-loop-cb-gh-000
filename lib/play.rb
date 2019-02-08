@@ -40,5 +40,5 @@ def play(board)
   until time == 9
     return turn
     time += 1
-  end      
+  end
 end
